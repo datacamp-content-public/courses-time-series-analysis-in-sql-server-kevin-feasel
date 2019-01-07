@@ -1,42 +1,15 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Converting to Dates and Times'
+description: ""
 ---
 
-## Example coding exercise
+## Handling Invalid Dates
 
 ```yaml
-type: NormalExercise
-key: 2bafef99a3
-lang: r
-xp: 100
-skills: 1
+type: VideoExercise
+key: b026c04640
+xp: 50
 ```
 
-This is an example exercise.
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{r}
-
-```
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
+`@projector_key`
+6017204b77f64fb0e92e431c4697ada5
