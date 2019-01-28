@@ -1,6 +1,7 @@
 ---
 title: 'Converting to Dates and Times'
 description: ""
+free_preview: true
 ---
 
 ## Handling Invalid Dates
